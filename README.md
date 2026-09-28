@@ -30,8 +30,8 @@ Aquí están las herramientas con las que vivo. Las uso todos los días.
 
 [![ravelog.xyz](https://img.shields.io/badge/ravelog.xyz-7c3aed?style=for-the-badge&logo=astro&logoColor=white)](https://ravelog.xyz)
 
-> **Tu diario de vida en terminal.** Registro, busco y releo todo lo que hago
-> directo desde la línea de comandos. Sin app, sin fricción.
+> **Tu diario de cine en ravelog.** Registra, busca y relee todo lo del cine
+> directo desde ravelog.xyz. Sin app, sin fricción.
 
 `Astro` `Node.js` `SQLite` `Docker`
 
