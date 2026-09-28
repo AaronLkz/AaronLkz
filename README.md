@@ -4,17 +4,10 @@
 
 **Vibecodeo por hobby. Construyo cosas que se ven bien y funcionan.**
 
-![Open to ideas](https://img.shields.io/badge/-Open%20to%20ideas-7c3aed?style=for-the-badge&logo=sparkles&logoColor=white)
-![Currently vibecoding](https://img.shields.io/badge/-Currently%20vibecoding-ff6b6b?style=for-the-badge)
 ![Ecuador](https://img.shields.io/badge/-Buena%20Fe%2C%20Ecuador-FFCD00?style=for-the-badge&logo=githubcopilot&logoColor=black)
 ![Hobby](https://img.shields.io/badge/-Hobby%20dev-10b981?style=for-the-badge)
 
 **🌍 Buena Fe, Ecuador** &nbsp;•&nbsp; **🌐 [ravelog.xyz](https://ravelog.xyz)**
-
-[![Website](https://img.shields.io/badge/-Website-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravelog.xyz)
-[![Email](https://img.shields.io/badge/-_Email_Aaron-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
 
 ---
 
@@ -40,23 +33,15 @@ Aquí están las herramientas con las que vivo. Las uso todos los días.
 > **Tu diario de vida en terminal.** Registro, busco y releo todo lo que hago
 > directo desde la línea de comandos. Sin app, sin fricción.
 
-`Astro` `Node.js` `SQLite` `Java`
+`Astro` `Node.js` `SQLite` `Docker`
 
 **Lo que hace:**
-- ⚡ Registro entries desde el CLI, a la velocidad del teclado
-- 🔍 Búsqueda instantánea en todo mi historial
-- 🗂️ Todo en un solo archivo SQLite, portable y offline-first
+- ⚡ Reseñas de Películas, Series, Anime y Doramas
+- 🔍 Búsqueda instantánea, registros, comunidad 
+- 🗂️ Todo desde Astro + Turso
 - 🌐 Web en ravelog.xyz para leer desde cualquier lado
 
 [![Abrir ravelog.xyz](https://img.shields.io/badge/-%F0%9F%97%82%20Abrir%20ravelog.xyz-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravelog.xyz)
-[![Ver código](https://img.shields.io/badge/-%F0%9F%A7%A9%20Código-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO/ravelog)
-
----
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -67,18 +52,6 @@ Aquí están las herramientas con las que vivo. Las uso todos los días.
 - 🌱 Aprendo Astro, Java y backend a mi propio ritmo
 - 🌍 Ecuador → el código no entiende de fronteras
 - 🎯 Mi regla: si no lo uso, no lo construyo
-
----
-
-## 💬 ¿Hablamos?
-
-Si tienes una idea, un proyecto o solo quieres saludar, escríbeme.
-Estoy abierto a colaborar y a ver lo que estás construyendo.
-
-[![Email](https://img.shields.io/badge/-_Email_Aaron-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
-[![Website](https://img.shields.io/badge/-ravelog.xyz-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ravelog.xyz)
 
 ---
 
